@@ -7,10 +7,12 @@ public class GitClass {
         System.out.println("ccccc");
         System.out.println("ddddd");
         System.out.println("eeeee");
+        //hello test
     }
     public  void test()
     {
         int i=0;
         i+=1;
+        System.out.println(i);
     }
 }
