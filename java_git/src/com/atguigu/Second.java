@@ -7,7 +7,7 @@ public class Second {
         System.out.println(i);//输出0
     }
     public  void  hello() {
-        //打印输出hello
+        //打印输出hello1
         System.out.println("hello world!!!");
 
     }
