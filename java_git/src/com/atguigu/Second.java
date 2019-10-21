@@ -6,4 +6,9 @@ public class Second {
         //打印输出语句1
         System.out.println(i);//输出0
     }
+    public  void  hello() {
+
+        System.out.println("hello world!!!");
+
+    }
 }
