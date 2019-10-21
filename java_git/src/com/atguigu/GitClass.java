@@ -13,6 +13,7 @@ public class GitClass {
     {
         int i=0;
         i+=1;
+        int b=2;
         System.out.println(i);
     }
 }
