@@ -7,8 +7,12 @@ public class Second {
         System.out.println(i);//输出0
     }
     public  void  hello() {
-
+        //打印输出hello
         System.out.println("hello world!!!");
 
+    }
+    public  void  t3()
+    {
+        System.out.println("this is t3");
     }
 }
